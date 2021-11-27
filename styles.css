@@ -1,0 +1,43 @@
+/* styles.css */
+
+#main {
+    background-color: ;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #img-div {
+    max-width: 600px;
+    margin: 10px auto;
+    background-color: gray;
+    padding: 
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    color: white;
+  }
+  
+  #img-caption a {
+    color: #dedede
+  }
+  
+  #tribute-info {
+    display: block;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  #tribute-link {
+    display: block;
+    text-align: center;
+    margin: 10px;
+  }  
