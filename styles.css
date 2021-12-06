@@ -68,39 +68,40 @@ body {
 body {
     background-color: #37517a;
   }
-  
-    #title {
-      font-family: 'Dancing Script', cursive;
-      color: white;
-      text-align: center;
-    }
+
     
-    #img-div {
+  #title {
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    text-align: center;
+    }
+  
+  #img-div {
       background-color: #de776f;
     }
     
-    #image {
+  #image {
 
     }
     
-    #img-caption {
-      font-family: 'Roboto Mono', monospace;
-      color: white;
+  #img-caption {
+    font-family: 'Roboto Mono', monospace;
+    color: white;
     }
     
-    #img-caption a {
-      color: #dedede
+  #img-caption a {
+    color: #dedede
     }
     
-    #tribute-info {
-      font-family: 'Roboto Mono', monospace;
-      font-size: 15px;
-      color: white;
-      text-align: justify;
-      line-height: 110%;
+  #tribute-info {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    color: white;
+    text-align: justify;
+    line-height: 110%;
     }
     
-    #tribute-link {
-      font-family: 'Roboto Mono', monospace;
-      color: #e2da70;
+  #tribute-link {
+    font-family: 'Roboto Mono', monospace;
+    color: #e2da70;
     }  
