@@ -65,15 +65,10 @@ body {
   }  
   */
 
-  body {
+body {
     background-color: #37517a;
   }
   
-  
-  #main {
-      background-color: ;
-    }
-    
     #title {
       font-family: 'Dancing Script', cursive;
       color: white;
