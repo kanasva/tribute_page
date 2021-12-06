@@ -1,107 +1,62 @@
-/* styles.css */
-
-/*
-body {
-  display: block;
-  max-width: 80%;
-  margin: auto;
-  background-color: #37517a;
-}
-
-
-#main {
-    background-color: ;
-  }
-  
-  #title {
-    font-family: 'Dancing Script', cursive;
-    color: white;
-    text-align: center;
-  }
-  
-  #img-div {
-    max-width: 600px;
-    margin: 10px auto;
-    padding: 10px 0 5px 0;
-    background-color: #de776f;
-    padding: ;
-  }
-  
-  #image {
-    display: block;
-    max-width: 100%;
-    height: auto;
-  }
-  
-  #img-caption {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 0.75rem;
-    text-align: center;
-    color: white;
-  }
-  
-  #img-caption a {
-    color: #dedede
-  }
-  
-  #tribute-info {
-    font-family: 'Roboto Mono', monospace;
-    font-weight: ;
-    font-size: 15px;
-    color: white;
-    display: block;
-    max-width: 600px;
-    text-align: justify;
-    margin: auto;
-  }
-  
-  #tribute-link {
-    font-family: 'Roboto Mono', monospace;
-    color: #e2da70;
-    display: block;
-    text-align: right;
-    max-width: 600px;
-    margin: 10px auto;
-  }  
-  */
+/* style.css */
 
 body {
     background-color: #37517a;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#main {
+    max-width: 600px;
+    margin: auto;
+}
+
+a {
+    color: #F5DD90;
+}
+
+a:hover {
+    color: #FAE98A;
+}
+
+a:visited {
+    color: #E3DB71;
   }
 
-    
-  #title {
+#title {
     font-family: 'Dancing Script', cursive;
-    color: white;
     text-align: center;
-    }
-  
-  #img-div {
-      background-color: #de776f;
-    }
-    
-  #image {
+    font-size: 3rem;
+}
 
-    }
-    
-  #img-caption {
-    font-family: 'Roboto Mono', monospace;
-    color: white;
-    }
-    
-  #img-caption a {
-    color: #dedede
-    }
-    
-  #tribute-info {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 15px;
-    color: white;
+#img-div {
+    background-color: #de776f;
+    padding: 2%;
+    margin: 1rem 0;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
     text-align: justify;
-    line-height: 110%;
-    }
-    
-  #tribute-link {
-    font-family: 'Roboto Mono', monospace;
-    color: #e2da70;
-    }  
+    text-indent: 2rem;
+    /* line-height: 1.5rem; */
+}
+
+#more {
+    text-align: end;
+}
+
+/* #tribute-link {
+    display: block;
+    float: right;
+} */
+
