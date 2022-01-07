@@ -12,16 +12,13 @@ body {
 }
 
 a {
-    color: #F5DD90;
+    color: #EAEB83;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #FAE98A;
+    text-decoration: underline;
 }
-
-a:visited {
-    color: #E3DB71;
-  }
 
 #title {
     font-family: 'Dancing Script', cursive;
